@@ -4016,7 +4016,7 @@ input, select, textarea {
 
 
 	.scrollable-images {
-		width: 100%;
+		width: 42%; /* Adjust the width of the scrollable view as needed */
 		overflow-x: auto;
 		white-space: nowrap;
 		scroll-snap-type: x mandatory;
@@ -4024,15 +4024,19 @@ input, select, textarea {
 	}
 	
 	.scrollable-images img {
-		flex: 0 0 auto;
+		flex: 0 0 calc(33.33% - 30px); /* Show 3 images at once, adjust as needed */
 		max-width: 500px; /* Adjust the maximum width as needed */
-		max-height: 325px; /* Adjust the maximum height as needed */
+		max-height: 400px; /* Adjust the maximum height as needed */
 		width: auto; /* Allow the image to scale proportionally */
 		height: 100%;
 		margin-right: 30px; /* Adjust the margin between images */
 		object-fit: contain; /* Fit the entire image within its container */
 		scroll-snap-align: start;
 	}
+	
+	
+	
+	
 	
 	
 	
