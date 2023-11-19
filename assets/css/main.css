@@ -2686,7 +2686,7 @@ input, select, textarea {
 			}
 
 		.spotlight .content {
-			padding: 2em 4em 0.1em 4em ;
+			padding: 4em 4em 0.1em 4em ;
 			-moz-order: 2;
 			-webkit-order: 2;
 			-ms-order: 2;
@@ -2788,7 +2788,7 @@ input, select, textarea {
 /* Wrapper */
 
 	.wrapper {
-		padding: 6em 0 4em 0 ;
+		padding: 1.5em 0 0.5em 0 ;
 	}
 
 		.wrapper > .inner {
@@ -3997,3 +3997,45 @@ input, select, textarea {
 	body.is-mobile.landing #footer {
 		background-color: #1d242a;
 	}
+
+
+
+/* profile image */
+	.rounded {
+		border-radius: 50%;
+		overflow: hidden;
+		width: 150px; /* Adjust the width as needed */
+		height: 150px; /* Adjust the height as needed */
+	}
+	
+	.rounded img {
+		width: 100%;
+		height: auto;
+		display: block;
+	}
+
+
+	.scrollable-images {
+		width: 100%;
+		overflow-x: auto;
+		white-space: nowrap;
+		scroll-snap-type: x mandatory;
+		display: flex;
+	}
+	
+	.scrollable-images img {
+		flex: 0 0 auto;
+		max-width: 500px; /* Adjust the maximum width as needed */
+		max-height: 325px; /* Adjust the maximum height as needed */
+		width: auto; /* Allow the image to scale proportionally */
+		height: 100%;
+		margin-right: 30px; /* Adjust the margin between images */
+		object-fit: contain; /* Fit the entire image within its container */
+		scroll-snap-align: start;
+	}
+	
+	
+	
+	
+	
+	
