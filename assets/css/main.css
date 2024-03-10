@@ -4064,11 +4064,27 @@ input, select, textarea {
         /* Landscape images */
         .image.fitt img {
             max-width: 100%; /* Adjust the maximum width for landscape images */
-            max-height: 200px; /* Set a maximum height for landscape images */
+            max-height: 240px; /* Set a maximum height for landscape images */
         }
     }
 
 
+	
+	.responsive-video {
+		max-width: 100%;
+		height: auto;
+		position: relative;
+		display: block;
+		margin: 0 auto;
+	}
+	
+	.responsive-video video {
+		width: 100%;
+		height: auto;
+		display: block;
+		margin: 0 auto;
+	}
+	
 
 	
 	
