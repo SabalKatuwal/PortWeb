@@ -4016,11 +4016,13 @@ input, select, textarea {
 
 
 	.scrollable-images {
-		width: 42%; /* Adjust the width of the scrollable view as needed */
+		width: 100%; /* Ensure it uses the full width of its container */
 		overflow-x: auto;
 		white-space: nowrap;
 		scroll-snap-type: x mandatory;
 		display: flex;
+		position: relative; /* For positioning the slider indicator */
+		padding-bottom: 20px; /* Space for the scrollbar and slider indicator */
 	}
 	
 	.scrollable-images img {
@@ -4033,6 +4035,38 @@ input, select, textarea {
 		object-fit: contain; /* Fit the entire image within its container */
 		scroll-snap-align: start;
 	}
+	
+	.slider-indicator {
+		position: absolute;
+		bottom: 0;
+		left: 0;
+		width: 100%;
+		height: 8px;
+		background: rgba(0, 0, 0, 0.2); /* Background for the slider track */
+	}
+	
+	.slider-indicator .thumb {
+		height: 100%;
+		width: 0;
+		background: #333; /* Color of the slider thumb */
+		transition: width 0.3s ease-in-out;
+	}
+	
+	/* Optional: Style the scrollbar */
+	.scrollable-images::-webkit-scrollbar {
+		height: 10px;
+	}
+	
+	.scrollable-images::-webkit-scrollbar-thumb {
+		background-color: #888;
+		border-radius: 5px;
+	}
+	
+	.scrollable-images::-webkit-scrollbar-thumb:hover {
+		background-color: #555;
+	}
+	
+	
 
 /* gallery section of image */
 
