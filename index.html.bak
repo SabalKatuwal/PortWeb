@@ -1,0 +1,486 @@
+<!DOCTYPE HTML>
+<!--
+	Spectral by HTML5 UP
+	html5up.net | @ajlkn
+	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
+-->
+<html>
+	<head>
+		<title>SabalKatuwalPortfolio</title>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width, initial-scale=1, user-scalable=no" />
+		<link rel="stylesheet" href="assets/css/main.css" />
+		<noscript><link rel="stylesheet" href="assets/css/noscript.css" /></noscript>
+	</head>
+	<body class="landing is-preload">
+
+		<!-- Page Wrapper -->
+			<div id="page-wrapper">
+
+				<!-- Header -->
+					<header id="header" class="alt">
+						<h1><a href="index.html">Sabal Katuwal Portfolio</a></h1>
+						<!-- <nav id="nav">
+							<ul>
+								<li class="special">
+									<a href="#menu" class="menuToggle"><span>Menu</span></a>
+									<div id="menu">
+										<ul>
+											<li><a href="index.html">Home</a></li>
+											<li><a href="generic.html">Generic</a></li>
+											<li><a href="elements.html">Elements</a></li>
+											<li><a href="#">Sign Up</a></li>
+											<li><a href="#">Log In</a></li>
+										</ul>
+									</div>
+								</li>
+							</ul>
+						</nav> -->
+					</header>
+
+				<!-- Banner -->
+					<section id="banner">
+						<div class="inner">
+							<h2>I'm Sabal Katuwal</h2>
+							<p>Welcome<br />
+							to my portfolio<br /> </p>
+						</div>
+						<a href="#one" class="more scrolly">Learn More</a>
+					</section>
+
+				<!-- One -->
+					<section id="one" class="wrapper style1 special">
+						<div class="inner">
+							<div class="image rounded">
+								<img src="images/sabalImage.jpg" alt="Your Image" />
+							</div>
+							<div class="content">
+								<header class="major">
+									<!-- <p>I am an experienced iOS developer skilled in Swift, SwiftUI, Swift Data, UIKit, <br />
+										Core Animation, and the latest Apple technologies. I am developing iOS apps for <br />
+										more than 3 years and have published an app in the App Store. <br />  
+										I believe challenges are opportunities for learning.</p> -->
+
+									<p>
+									I hold a Bachelor’s degree in Computer Engineering with a strong foundation in software systems, cybersecurity, and mobile computing. 
+									My academic and professional experience includes secure iOS application development and fintech research, notably my involvement in a national Central Bank Digital Currency project. 
+									Beyond academics, I was a Top 7 finalist and Most Creative Award recipient at Mister Nepal 2025, a leadership and personality development platform, reflecting my ability to lead and communicate ideas. 
+									My research interests include cybersecurity, blockchain, applied cryptography, AI/ML-driven security, and scalable software systems.
+									</p>
+
+
+								</header>
+
+								<!-- Button for Viewing Resume -->
+								<div style="margin: 20px 0;">
+									<a href="images/SabalKatuwal_Resume.pdf" target="_blank" class="button" download="Sabal_Katuwal_Resume.pdf">View My Resume</a>
+								</div>
+
+								<!-- <ul class="icons major"> -->
+									<!-- <li>
+										<span class="label">iOS Development(Swift)</span>
+									</li>
+									<li>
+										<span class="label">Cross Platform Development(Flutter)</span>
+									</li> -->
+									<!-- <li>
+										<span class="label">Backend Development</span>
+									</li> -->
+									<!-- <li>
+										<span class="label">Cloud Computing(AWS)</span>
+									</li>
+								</ul> -->
+
+								<ul class="icons major">
+									<li>
+										<span class="label">Secure Systems</span>
+									</li>
+									<li>
+										<span class="label">Fintech Applications</span>
+									</li>
+									<li>
+										<span class="label">Applied Cryptography</span>
+									</li>
+									<li>
+										<span class="label">Cloud & Distributed Systems</span>
+									</li>
+								</ul>
+								
+								
+							</div>
+						</div>
+					</section>
+
+
+				<!-- Two -->
+					<section id="two" class="wrapper alt style2">
+						
+						<section class="spotlight">
+							<div class="scrollable-images">
+								<img src="images/dmbs1.png" alt="" />
+								<img src="images/dmbs2.png" alt="" />
+								<img src="images/dmbs3.png" alt="" />
+								<img src="images/dmbs4.png" alt="" />
+								<!-- Add more images as needed -->
+							</div>
+							<div class="content">
+								<h2>Digital Mobile Banking Solutions</h2>
+								<p>A high-impact platform utilized by the country's major banks. Beyond building dynamic views and core transaction modules, I was responsible for engineering the app’s high-security architecture. This included implementing biometric encryption by securing user data in Keychain, and developing a robust jailbreak detection system. Furthermore, I optimized the app’s operational stability by performing deep CPU profiling and memory management, ensuring that the high-throughput transaction engine remained performant and leak-free across all devices.<br />
+									<!-- <a href="https://github.com/SabalKatuwal/eLibrary" target="_blank">eLibrary</a></p> -->
+								</p>
+							</div>
+						</section>
+
+						<section class="spotlight">
+							
+							<div class="scrollable-images">
+								<img src="images/collegeApp1.png" alt="" />
+								<img src="images/collegeApp2.png" alt="" />
+								<img src="images/collegeApp3.png" alt="" />
+								<img src="images/collegeApp4.png" alt="" />
+								<img src="images/collegeApp5.png" alt="" />
+								<img src="images/collegeApp6.png" alt="" />
+							</div>
+							<div class="content">
+								<h2>College App</h2>
+								<p>The College App, built in Swift, incorporates PDFKit, SwiftData, Core Animation, and Keychain
+									Storage. It features discussions, MCQ solving, note-taking, and notifications for an enhanced
+									educational experience.<br />
+									<a href="https://apps.apple.com/np/app/bright-acca-app/id6633416060" target="_blank">College App</a></p>
+									
+							</div>
+						</section>
+							
+						<section class="spotlight">
+							<div class="scrollable-images">
+								<img src="images/bankApp.png" alt="" />
+								<img src="images/bankApp0.png" alt="" />
+								<img src="images/bankApp1.png" alt="" />
+								<img src="images/bankApp2.png" alt="" />
+								<img src="images/bankApp3.png" alt="" />
+								<img src="images/bankApp4.png" alt="" />
+								<img src="images/bankApp5.png" alt="" />
+								<img src="images/bankApp6.png" alt="" />
+							</div>
+							<div class="content">
+								<h2>eWallet App</h2>
+								<p>The eWallet App, integrates Central Bank Digital Currency (CBDC). It employs blockchain technology and public key cryptography for robust security, enabling real-time, end-to-end token transfers.<br />
+									<!-- <a href="https://github.com/SabalKatuwal/Landmark" target="_blank">Landmark App</a></p> -->
+									
+							</div>
+						</section>
+
+							
+									
+									
+									<!-- <section class="spotlight">
+										<div class="scrollable-images">
+											<img src="images/meroTutor1.png" alt="" />
+											<img src="images/meroTutor2.png" alt="" />
+											<img src="images/meroTutor3.png" alt="" />
+										</div>
+										<div class="content">
+											<h2>Mero Tutor</h2>
+											<p>The Tutor Web App is designed to connect students with tutors. Beyond facilitating tutor-student connections, this app boasts advanced functionalities, including seamless payment processing through Stripe, an interactive chat system powered by socket programming, and various other features inherent to web applications.<br />
+												<a href="https://github.com/SabalKatuwal/TutorWebApp" target="_blank">Mero Tutor</a></p>
+											</div>
+										</section> -->
+										
+						<section class="spotlight">
+							<div class="scrollable-images">
+								<img src="images/landmarkApp1.png" alt="" />
+								<img src="images/landmarkApp2.png" alt="" />
+								<img src="images/landmarkApp3.png" alt="" />
+								<img src="images/landmarkApp4.png" alt="" />
+							</div>
+							<div class="content">
+								<h2>Landmark App</h2>
+								<p>The Landmark app is developed using SwiftUI. The app has smooth animations and transitions and also uses new @Observable macro. This app serves as a comprehensive demonstration of SwiftUI's capabilities and best practices.<br />
+									<a href="https://github.com/SabalKatuwal/Landmark" target="_blank">Landmark App</a></p>
+									
+								</div>
+						</section>
+
+
+						<section class="spotlight">
+							<div class="scrollable-video">
+								<video width="430" height="430" controls>
+									<source src="images/8PuzzleGame1.mp4" type="video/mp4">
+									Your browser does not support the video tag.
+								</video>
+							</div>
+							<div class="content">
+								<h2>8-Puzzle Game</h2>
+								<p>The 8-Puzzle Game app is designed to solve the classic 8-puzzle problem using a dynamic A* search algorithm. The app features heuristic search algorithms, AI problem-solving techniques, dynamic UI elements, and state space management. The goal is to optimize graph traversal for the most efficient path from the initial to the end state.<br />
+								<a href="https://github.com/SabalKatuwal/8-Puzzle-Game" target="_blank">8-Puzzle-Game</a></p>
+							</div>
+						</section>
+						
+						
+
+					</section>
+
+
+					<!-- Achievements & Extracurricular -->
+					<section id="achievements" class="wrapper style1 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Achievements & Extracurricular</h2>
+								<p>Recognitions and leadership experiences</p>
+							</header>
+
+							<!-- Mister Nepal 2025 - Large Section with Multiple Images/Videos -->
+							<div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f7f4 100%); padding: 40px; border-radius: 12px; margin-bottom: 40px; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08);">
+								<div style="display: grid; grid-template-columns: 1fr 1.5fr; gap: 40px; align-items: start;">
+									<!-- Scrollable Media -->
+									<div style="overflow-x: auto; border-radius: 10px; box-shadow: 0 2px 10px rgba(0, 0, 0, 0.1);">
+										<div style="display: flex; gap: 15px; min-width: min-content; padding: 5px;">
+											<img src="images/mrnepal1.JPG" alt="Mister Nepal" style="width: 280px; height: 350px; object-fit: cover; border-radius: 8px; flex-shrink: 0;" />
+											<video width="280" height="350" style="border-radius: 8px; flex-shrink: 0; object-fit: cover;" controls>
+												<source src="images/mrnepal2.mp4" type="video/mp4">
+												Your browser does not support the video tag.
+											</video>
+											<video width="280" height="350" style="border-radius: 8px; flex-shrink: 0; object-fit: cover;" controls>
+												<source src="images/mrNepal3.mp4" type="video/mp4">
+												Your browser does not support the video tag.
+											</video>
+											<video width="280" height="350" style="border-radius: 8px; flex-shrink: 0; object-fit: cover;" controls>
+												<source src="images/mrnepal4.mp4" type="video/mp4">
+												Your browser does not support the video tag.
+											</video>
+										</div>
+									</div>
+									<!-- Description -->
+									<div>
+										<h3 style="margin: 0 0 15px 0; font-size: 1.6em; color: #1a5f5f;">Mister Nepal 2025</h3>
+										<p style="font-size: 1.05em; color: #2d8c8c; font-weight: 600; margin: 10px 0;">Top 7 Finalist & Most Creative Award</p>
+										<p style="font-size: 0.95em; color: #4a9999; line-height: 1.6; margin-top: 15px;">
+											A prestigious leadership and personality development platform where I showcased creative excellence and made it to the top 7 finalists among 4,500 participants. This recognition reflects my ability to lead, innovate, and communicate ideas effectively.
+										</p>
+									</div>
+								</div>
+							</div>
+
+							<!-- Other Achievements Grid -->
+							<div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(320px, 1fr)); gap: 40px;">
+								
+								<!-- Achievement 2: Idea Contest -->
+								<div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f7f4 100%); padding: 30px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(0, 0, 0, 0.08)';">
+									<img src="images/ideaContest.jpg" alt="Idea Contest" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;" />
+									<h3 style="margin: 15px 0 5px 0; font-size: 1.4em; color: #1a5f5f;">Idea Contest Winner</h3>
+									<p style="font-size: 0.95em; color: #2d8c8c; font-weight: 600; margin: 5px 0;">First Runner-up</p>
+									<p style="font-size: 0.85em; color: #4a9999; margin-top: 10px;">Presented a student-led agricultural innovation idea at an idea contest organized by Nepal Technology Innovation Center in collaboration with Korea International Cooperation Agency.<a href="https://www.koica.go.kr/koica_en/3440/subview.do" target="_blank" style="color: #1a5f5f; text-decoration: underline;">KOICA</a></p>
+								</div>
+
+								<!-- Achievement 3: Workshop Leadership -->
+								<div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f7f4 100%); padding: 30px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(0, 0, 0, 0.08)';">
+									<img src="images/workshop.JPG" alt="Badminton Workshop" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 20px;" />
+									<h3 style="margin: 15px 0 5px 0; font-size: 1.4em; color: #1a5f5f;">Workshop Organiser</h3>
+									<p style="font-size: 0.95em; color: #2d8c8c; font-weight: 600; margin: 5px 0;">President - KUIGC</p>
+									<p style="font-size: 0.85em; color: #4a9999; margin-top: 10px;">Led the club as President by overseeing logistics, members, volunteers, sponsorships, and organizing indoor games workshops under a national coach at Kathmandu University Indoor Games Club.</p>
+								</div>
+
+								<!-- Achievement 4: Additional Achievement -->
+								<div style="background: linear-gradient(135deg, #f0f9ff 0%, #e0f7f4 100%); padding: 30px; border-radius: 12px; text-align: center; box-shadow: 0 4px 15px rgba(0, 0, 0, 0.08); transition: transform 0.3s ease, box-shadow 0.3s ease;" onmouseover="this.style.transform='translateY(-5px)'; this.style.boxShadow='0 8px 25px rgba(0, 0, 0, 0.12)';" onmouseout="this.style.transform='translateY(0)'; this.style.boxShadow='0 4px 15px rgba(0, 0, 0, 0.08)';">
+									<img src="images/badminton1.webp" alt="Achievement" style="width: 100%; height: 250px; object-fit: cover; border-radius: 10px; margin-bottom: 20px; background: #ddd;" />
+									<h3 style="margin: 15px 0 5px 0; font-size: 1.4em; color: #1a5f5f;">Badminton Tournament</h3>
+									<p style="font-size: 0.95em; color: #2d8c8c; font-weight: 600; margin: 5px 0;">First Runner-Up</p>
+									<p style="font-size: 0.85em; color: #4a9999; margin-top: 10px;">Represented the university in national badminton tournaments, winning titles and finishing Runner-Up at the Grand Indoor Games and KUCC Badminton Tournaments.</p>
+								</div>
+
+							</div>
+						</div>
+					</section>
+
+
+				<!-- Three -->
+					<section id="three" class="wrapper style3 special">
+						<div class="inner">
+							<header class="major">
+								<h2>Gallery</h2>
+								<p>Some more projects</p>
+							</header>
+
+							<style>
+								#three .features {
+									display: flex;
+									flex-wrap: wrap;
+									gap: 2rem;
+									list-style: none;
+									padding: 0;
+									margin: 0;
+								}
+
+								#three .features li {
+									flex: 1 1 calc(50% - 1rem);
+									min-width: 300px;
+									display: flex;
+									flex-direction: column;
+								}
+
+								.gallery-images-container {
+									display: flex;
+									gap: 0.75rem;
+									overflow-x: auto;
+									margin-bottom: 1rem;
+									padding: 5px 0;
+									scroll-behavior: smooth;
+								}
+
+								.gallery-images-container::-webkit-scrollbar {
+									height: 6px;
+								}
+
+								.gallery-images-container::-webkit-scrollbar-track {
+									background: #f1f1f1;
+									border-radius: 3px;
+								}
+
+								.gallery-images-container::-webkit-scrollbar-thumb {
+									background: #888;
+									border-radius: 3px;
+								}
+
+								.gallery-images-container::-webkit-scrollbar-thumb:hover {
+									background: #555;
+								}
+
+								#three .features a.image.fitt {
+									display: block;
+									overflow: hidden;
+									border-radius: 8px;
+									flex-shrink: 0;
+									width: 140px;
+									height: 140px;
+									box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+									transition: box-shadow 0.3s ease;
+								}
+
+								#three .features a.image.fitt:hover {
+									box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+								}
+
+								#three .features a.image.fitt img {
+									width: 100%;
+									height: 100%;
+									display: block;
+									object-fit: cover;
+									transition: transform 0.3s ease;
+								}
+
+								#three .features a.image.fitt img:hover {
+									transform: scale(1.08);
+								}
+
+								#three .features p {
+									flex-grow: 1;
+									margin: 0;
+									font-size: 0.95em;
+									line-height: 1.6;
+								}
+
+								@media (max-width: 768px) {
+									#three .features li {
+										flex: 1 1 100%;
+									}
+
+									#three .features a.image.fitt {
+										width: 120px;
+										height: 120px;
+									}
+								}
+
+								@media (max-width: 480px) {
+									#three .features {
+										gap: 1rem;
+									}
+
+									#three .features li {
+										flex: 1 1 100%;
+										min-width: 100%;
+									}
+
+									#three .features a.image.fitt {
+										width: 100px;
+										height: 100px;
+									}
+
+									.gallery-images-container {
+										gap: 0.5rem;
+									}
+								}
+							</style>
+
+							<ul class="features">
+								<li>
+									<a class="image fitt"><img src="images/cips1.webp" title="Airchitecture II" alt="" /></a>
+									<a class="image fitt"><img src="images/cips2.webp" title="Airchitecture II" alt="" /></a>
+									<a class="image fitt"><img src="images/cips3.webp" title="Airchitecture II" alt="" /></a>
+									<p>Connect IPS<br />
+										Contributed to Nepal’s interbank payment platform, including SMS mode payments, secure keychain storage, and cross-border payment features. <a href="https://apps.apple.com/np/app/connectips/id1449940087" target="_blank">AppStore</a> </p>
+								</li>
+								<li>
+									<a class="image fitt"><img src="images/elibrary1.png" title="Airchitecture II" alt="" /></a>
+									<a class="image fitt"><img src="images/elibrary2.png" title="Airchitecture II" alt="" /></a>
+									<p>e Library<br />
+										An iOS library management app that serves librarians and students. <a href="https://github.com/SabalKatuwal/eLibrary" target="_blank">github</a> </p>
+								</li>
+								<li>
+									<a class="image fitt"><img src="images/weatherApp1.png" title="Airchitecture II" alt="" /></a>
+									<a class="image fitt"><img src="images/weatherApp2.png" title="Airchitecture III" alt="" /></a>
+									
+									<p>Weather App <br />
+										Delivers weather information sourced from an external API. </p>
+								</li>
+								<li>
+									<a class="image fitt"><img src="images/sahaYatri1.png" title="The Anonymous Red" alt="" /></a>
+									<a class="image fitt"><img src="images/sahaYatrii2.png" title="Another Image" alt="" /></a>
+									<a class="image fitt"><img src="images/sahaYatri3.png" title="Another Image 2" alt="" /></a>
+									<p>Saha Yatri<br />
+									Facilitate the connection between passengers and buses by providing a tracking feature.</p>
+								</li>
+							</ui>
+						</div>
+
+					</section>
+
+				
+				<!-- CTA -->
+					<section id="cta" class="wrapper style4">
+						<div class="inner">
+							<header>
+								<p></p>
+							</header>
+							<ul class="actions stacked">
+								
+								<li><a href="#" class="button fit">Learn More</a></li>
+							</ul>
+						</div>
+					</section>
+
+				<!-- Footer -->
+					<footer id="footer">
+						<ul class="icons">
+							<li><a href="https://github.com/SabalKatuwal" class="icon brands fa-github"><span class="label">GitHub</span></a></li>
+							<li><a href="mailto:sabal.katuwal1@gmail.com" class="icon solid fa-envelope"><span class="label">Email</span></a></li>
+							<li><a href="https://www.facebook.com/sabal.katuwal" class="icon brands fa-facebook-f"><span class="label">Facebook</span></a></li>
+							<li><a href="https://www.instagram.com/sabal_katuwal/" class="icon brands fa-instagram"><span class="label">Instagram</span></a></li>
+						</ul>
+						<ul class="copyright">
+							<li>Sabal Katuwal Portfolio 2024</li>
+						</ul>
+					</footer>
+
+			</div>
+
+		<!-- Scripts -->
+			<script src="assets/js/jquery.min.js"></script>
+			<script src="assets/js/jquery.scrollex.min.js"></script>
+			<script src="assets/js/jquery.scrolly.min.js"></script>
+			<script src="assets/js/browser.min.js"></script>
+			<script src="assets/js/breakpoints.min.js"></script>
+			<script src="assets/js/util.js"></script>
+			<script src="assets/js/main.js"></script>
+
+	</body>
+</html>
